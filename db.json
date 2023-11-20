@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "awwa awwa",
+      "day": "UwU day",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "nya~ nya~",
+      "day": "UwU day",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "OwO UwU",
+      "day": "UwU day",
+      "reminder": true
+    }
+  ]
+}
